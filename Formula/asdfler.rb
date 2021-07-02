@@ -4,7 +4,7 @@ class Asdfler < Formula
   desc "Small Crystal CLI for managing asdf plugins"
   homepage "https://github.com/tedious-tools/asdfler"
   url "https://github.com/tedious-tools/asdfler/archive/refs/tags/0.2.0.tar.gz"
-  sha256 ""
+  sha256 "29d5184256d789b0682bd77c72c5780e64c4bf29f36e8941e94c0845f87f28c4"
   license "MIT"
 
   depends_on "crystal" => :build
