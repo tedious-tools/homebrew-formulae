@@ -3,8 +3,7 @@
 class Asdfler < Formula
   desc "Small Crystal CLI for managing asdf plugins"
   homepage "https://github.com/tedious-tools/asdfler"
-  url "https://github.com/tedious-tools/asdfler.git", branch: "main"
-  version "0.2.0"
+  url "https://github.com/tedious-tools/asdfler/archive/refs/tags/0.2.0.tar.gz"
   sha256 ""
   license "MIT"
 
